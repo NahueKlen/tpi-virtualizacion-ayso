@@ -93,3 +93,7 @@ Se utilizó asistencia de IA para orientación, revisión del código y organiza
 - [Documentación de VirtualBox](https://www.virtualbox.org/manual/)
 - [Imágenes oficiales de Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/24.04/release/)
 - [Documentación de Python 3.12](https://docs.python.org/3.12/)
+
+## Video explicativo
+
+[Ver presentación del TPI en YouTube](https://www.youtube.com/watch?v=Yktq1DpEZcM)
